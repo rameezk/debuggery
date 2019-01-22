@@ -13,6 +13,7 @@ RUN set -ex \
     busybox-extras \
     curl \
     git \
+    postgresql-client \
     vim \
     zsh 
 
