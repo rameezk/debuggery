@@ -1,5 +1,7 @@
 # Debuggery
 
+[![Build Status](https://travis-ci.org/rameezk/debuggery.svg?branch=master)](https://travis-ci.org/rameezk/debuggery)
+
 > A docker container for debugging network things, redis, postgresql, etc. 🔋's included.
 
 ## How to
