@@ -2,7 +2,7 @@ services:
   - 'docker'
 
 script:
-  - docker build -t debuggery
+  - docker build -t debuggery .
 
 after_success:
   - if [[ "$TRAVIS_BRANCH" == "master" ]]; then
