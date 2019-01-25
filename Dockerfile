@@ -13,7 +13,9 @@ RUN set -ex \
     busybox-extras \
     curl \
     git \
+    hping3 \
     postgresql-client \
+    tcptraceroute \
     vim \
     zsh 
 
