@@ -14,6 +14,7 @@ RUN set -ex \
     curl \
     git \
     hping3 \
+    nmap \
     postgresql-client \
     tcptraceroute \
     vim \
