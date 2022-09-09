@@ -1,6 +1,8 @@
 # Debuggery
 
-> A docker container for debugging network things, redis, postgresql, etc. 🔋's included.
+> A super tiny docker container for debugging network things, redis, postgresql, etc. 🔋's included.
+
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/rameezk/debuggery/latest)
 
 ## How to
 
