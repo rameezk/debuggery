@@ -18,8 +18,6 @@ RUN set -ex \
     postgresql-client \
     tcptraceroute \
     vim \
-    zsh 
+    fish 
 
-RUN wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh || true
-
-CMD ["zsh"]
+CMD ["fish"]
